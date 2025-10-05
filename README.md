@@ -1,3 +1,6 @@
+# check release versions
+* https://github.com/redis/redis/releases
+
 # build image
 
 ```bash
